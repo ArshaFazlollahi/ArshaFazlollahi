@@ -6,6 +6,8 @@
 
 ### ⭐I'm a Computer Science student, and during my free time I enjoy programming and working on projects that help me learn and explore different aspects of software development. I also enjoy working on projects that align with my personal interests, i.e., iPhone and Android apps, videogames, YouTube, ect.
 
+### 📬Email: newarsha@gmail.com
+
 <br>
 
 <p align="left">
