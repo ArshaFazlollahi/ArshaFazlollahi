@@ -8,7 +8,7 @@
 I also enjoy working on projects that align with my personal interests, i.e., iPhone and Android apps, videogames, YouTube, ect.
 
 <p align="left">
-<img width = "480" src="https://github-readme-stats.vercel.app/api?username=ArshaFazlollahi&hide=prs,issues,contribs&show_icons=true&theme=dark">
+<img width = "475" src="https://github-readme-stats.vercel.app/api?username=ArshaFazlollahi&hide=prs,issues,contribs&show_icons=true&theme=dark">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshaFazlollahi&langs_count=10&layout=compact&theme=dark">
 </p>
 
