@@ -7,7 +7,7 @@
 ⭐I'm a Computer Science student, and during my free time I enjoy programming and working on projects that help me learn and explore different aspects of software development.
 I also enjoy working on projects that align with my personal interests, i.e., iPhone and Android apps, videogames, YouTube, ect.
 
-<img align="left" width = "400" src="https://github-readme-stats.vercel.app/api?username=ArshaFazlollahi&hide=prs,issues,contribs&show_icons=true&theme=dark">
+<img align="left" width = "450" src="https://github-readme-stats.vercel.app/api?username=ArshaFazlollahi&hide=prs,issues,contribs&show_icons=true&theme=dark">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshaFazlollahi&langs_count=10&layout=compact&theme=dark">
 
 # 🔗Socials:
