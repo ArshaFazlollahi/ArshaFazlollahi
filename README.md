@@ -4,7 +4,7 @@
 <img length="650" src = https://user-images.githubusercontent.com/112593394/204969179-c11bc921-36d7-4fa8-9d25-3ae72396784a.gif>
 </p>
 
-### ⭐I'm a Computer Engineeering student, and during my free time I enjoy programming and working on projects that help me learn and explore different aspects of software development. I also enjoy working on projects that align with my personal interests, i.e., iPhone and Android apps, videogames, YouTube, ect.
+### ⭐I'm a Computer Engineering student, and during my free time I enjoy programming and working on projects that help me learn and explore different aspects of software development. I also enjoy working on projects that align with my personal interests, i.e., iPhone and Android apps, videogames, YouTube, ect.
 
 ### 📬Email: newarsha@gmail.com
 
