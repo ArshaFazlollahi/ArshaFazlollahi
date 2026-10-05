@@ -65,8 +65,6 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-30363D?style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-30363D?style=for-the-badge)
 
-<sub>Based on committed languages and dependency/configuration manifests across my public and private projects. Language detection may include documentation and scaffolding; it is not a proficiency ranking.</sub>
-
 <!-- SKILLS:END -->
 
 # ℹ️Socials:
