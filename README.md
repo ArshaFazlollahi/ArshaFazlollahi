@@ -16,9 +16,6 @@
 
 # 📊 GitHub activity
 
-My public and private projects, together. Only combined totals are shared; private
-repository names and source stay private.
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg">
