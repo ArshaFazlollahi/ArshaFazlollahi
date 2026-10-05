@@ -29,10 +29,6 @@
   </picture>
 </p>
 
-<sub>Language share is based on code bytes, not proficiency. Commit totals use my
-account-linked commits on owned repositories' default branches.
-[How these cards are generated and refreshed](docs/profile-stats.md).</sub>
-
 # 🎗️Skills:
 
 <!-- SKILLS:START -->
