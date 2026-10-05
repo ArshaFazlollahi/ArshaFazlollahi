@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="110" viewBox="0 0 650 110" role="img" aria-labelledby="title">
+  <title id="title">Hello World, I'm Arsha!</title>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 36px; font-weight: 700; fill: #1f2328; }
+    @media (prefers-reduced-motion: reduce) { .typing { clip-path: none; } .cursor { display: none; } }
+  </style>
+  <defs><clipPath id="typing"><rect x="38" y="10" width="570" height="80"><animate attributeName="width" values="0;570;570;0" keyTimes="0;0.45;0.9;1" dur="9s" repeatCount="indefinite"/></rect></clipPath></defs>
+  <text x="40" y="66" textLength="560" lengthAdjust="spacingAndGlyphs" class="typing" clip-path="url(#typing)">Hello World, I'm Arsha!</text>
+  <rect class="cursor" x="40" y="37" width="3" height="37" rx="1" fill="#0969da">
+    <animate attributeName="x" values="40;605;605;40" keyTimes="0;0.45;0.9;1" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
